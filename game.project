@@ -1,5 +1,6 @@
 [bootstrap]
-main_collection = /main/main.collectionc
+main_collection = /Collections/Scenes/Stage1/Level1.collectionc
+render = /rendercam/rendercam.renderc
 
 [script]
 shared_state = 1
@@ -13,4 +14,9 @@ input_method = HiddenInputField
 
 [project]
 title = Defshot/Defshot
+dependencies#0 = https://github.com/rgrams/rendercam/archive/refs/tags/1.0.3.zip
+
+[graphics]
+default_texture_min_filter = nearest
+default_texture_mag_filter = nearest
 
