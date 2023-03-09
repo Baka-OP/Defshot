@@ -1,13 +1,11 @@
-# Welcome to Defold
+# Welcome to Defshot!
 
-This project was created from the "empty" project template.
+This project was created by Bakamc_
 
-The settings in ["game.project"](defold://open?path=/game.project) are all the default. A bootstrap empty ["main.collection"](defold://open?path=/main/main.collection) is included.
+It is a web game available on itch.io at -coming-soon-
 
-Check out [the documentation pages](https://defold.com/learn) for examples, tutorials, manuals and API docs.
+If you run into trouble, help is available on my discord server at .
 
-If you run into trouble, help is available in [our forum](https://forum.defold.com).
-
-Happy Defolding!
+Happy Shooting!
 
 ---
